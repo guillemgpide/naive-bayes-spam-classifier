@@ -21,8 +21,6 @@ This repository contains the implementation of a Natural Language Processing (NL
 * `src/`: Contains all the MATLAB core scripts (`.m` files).
   * `P3_b.m`: Main execution script with the optimized pipeline.
   * Helper functions (`separaHamSpam_b.m`, `carregaDades.m`, etc.) for data preprocessing and calculation.
-* `data/`: Placeholder for the `smssspamcollection` dataset (SMS text corpus).
-* `docs/`: Project specifications and university constraints.
 
 ## ⚙️ Quick Start
 
