@@ -1,0 +1,18 @@
+# MATLAB autosave and crash files
+*.asv
+*.m~
+matlab_crash_dump*
+
+# Heavy data files and workspace variables
+# Exclude large .mat files to avoid exceeding GitHub's file size limits.
+# If your dataset/workspace is under 50MB and needed, comment the line below.
+*.mat
+
+# Simulink and temporary figure files
+*.slxc
+*.fig
+*.autosave
+
+# macOS/Windows OS generated files
+.DS_Store
+Thumbs.db
